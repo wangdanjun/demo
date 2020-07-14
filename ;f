@@ -1,0 +1,30 @@
+[33mcommit 4fce6f1be8b8aa02b68ec7baf8fb7ad4eac1c5dc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 9c9c93d 5ca6380
+Author: wangdanjun <13450222073@163.com>
+Date:   Tue Jul 14 15:01:06 2020 +0800
+
+    conflict
+
+[33mcommit 9c9c93d99b150a2bb506ae18183a306895401d3b[m
+Author: wangdanjun <13450222073@163.com>
+Date:   Tue Jul 14 14:52:04 2020 +0800
+
+    second commit
+
+[33mcommit 5ca6380c128a411e2a75695598e7a94d5a879a34[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: wangdanjun <13450222073@163.com>
+Date:   Tue Jul 14 14:46:45 2020 +0800
+
+    others commit
+
+[33mcommit 2cb237520fc5a97956b848de72e230f4a05367e3[m
+Author: wangdanjun <13450222073@163.com>
+Date:   Tue Jul 14 14:31:12 2020 +0800
+
+    first commit
+
+[33mcommit b476135f1fff15620c9909ee7ebf1a57d899aa6c[m
+Author: wangdanjun <68224189+wangdanjun@users.noreply.github.com>
+Date:   Mon Jul 13 17:57:09 2020 +0800
+
+    Initial commit
